@@ -26,5 +26,5 @@ The goal is to demonstrate how to build efficient, real-time background segmenta
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/background-replacement.git
-   cd background-replacement
+   git clone https://github.com/hosnyfadda/segmantion.git
+cd segmantion
